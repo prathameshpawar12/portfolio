@@ -1,0 +1,70 @@
+.mai{
+    height: 40vw;
+    text-decoration: none;
+    background-color: black;
+}
+.heading{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    
+}
+.contactcontent{
+    margin-top: 30px;
+    border-radius: 10px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inner{
+   
+    
+   
+}
+.inner h3{
+    
+    text-align: center;
+    font-size: medium;
+    padding: 1rem;
+    font-weight: 300;
+    color: white;
+    text-decoration: solid;
+}
+
+.con{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.ip{
+    margin-top: 0px;
+    background-color: rgb(179, 179, 179);
+    padding: 30px 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 90vw;
+    height: 30vw;
+    max-width: 40rem;
+    border-radius: 20px;
+    box-shadow: 0px 0px 30px rgb(247, 111, 0);;
+    color: white;
+}
+.ipbg{
+    font-size: medium;
+    width: 100%;
+    max-width: 30rem;
+    border-radius: 0.5rem;
+    background-color: rgb(28, 28, 28);
+    color: white;
+    border: 2px solid rgb(247, 111, 0);
+    padding: 0.5rem 1rem;
+}
+.submitbtn{
+    font-size: medium;
+    padding: 10px 20px;
+    border-radius: 10px;
+    background-color: rgb(247, 111, 0);
+}

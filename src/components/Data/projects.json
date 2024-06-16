@@ -1,0 +1,34 @@
+[
+    {
+      "key": 1,
+      "title": "Student Management",
+      "imageSrc": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQDg74A3pv45iDP5WrRhh5HfA5_1JJkhzw03Q&s",
+      "description": "This is a project made with Spring boot,My sql and React js.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/prathameshpawar12"
+    },
+    {
+      "key": 2,
+      "title": "Amazon UI Clone",
+      "imageSrc": "https://www.performics.com/in/wp-content/uploads/sites/6/2023/06/amazon-3.jpg",
+      "description": "This is a project made with HTML, CSS and JavaScript.",
+      "demo": "https://amazonbyprathamesh.netlify.app/",
+      "source": "https://github.com/prathameshpawar12/Amazon-clone-HTML-CSS"
+    },
+    {
+      "key": 3,
+      "title": "ATM Machine Java",
+      "imageSrc": "https://cdn.educba.com/academy/wp-content/uploads/2022/12/Atm-Machine-1.jpg",
+      "description": "This is a project made with core java.",
+      "demo": "https://www.example.com",
+      "source": "https://github.com/prathameshpawar12/ATM-Machine-Core-Java-Project"
+    },
+    {
+      "key": 4,
+      "title": "Electronic store core java",
+      "imageSrc": "https://cdn.pixabay.com/photo/2021/03/02/01/07/cyberpunk-6061251_640.jpg",
+      "description": "This is a project made only core java.",
+      "demo": "",
+      "source": "https://github.com/prathameshpawar12/ElectronicStoreProjectCoreJava"
+    }
+  ]

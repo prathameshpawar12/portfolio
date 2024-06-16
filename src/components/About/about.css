@@ -1,0 +1,100 @@
+.about{
+    height: 690px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+   
+    background: linear-gradient(to bottom, white, black);
+}
+.mainab{
+    position: absolute;
+  margin-top: 35px;
+    height: 600px;
+   width: 100%;
+   color: black;
+}
+.heading{
+    text-align: center;
+    text-decoration: underline;
+    
+}
+.heading .h1{
+    font-size: 40px;
+}
+.block2{
+    
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.imagearea img{
+    object-fit: cover;
+    width: 450px;
+    height: 450px;
+    border-radius: 50%;
+    border: 1px solid yellow;
+    /* box-shadow: 0px 0px 30px rgb(247, 111, 0);; */
+    animation-name: myimage;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+@keyframes myimage{
+    0%{
+        border-color: blue;
+        transform: translate(0,0px);
+        box-shadow: 10px, 10px, 100px, 50px blue;
+    }
+    25%{
+        border-color: rgb(239,244,11);
+        box-shadow: 10px, 10px, 100px, 50px rgb(239,244,11);
+    }
+    50%{
+        border-color: rgb(12, 12, 199);
+        transform: translate(0,10px);
+        box-shadow: 10px, 10px, 100px, 50px rgb(12, 12, 129);
+    }
+    75%{
+        border-color: rgb(130, 217, 160);
+        box-shadow: 10px, 10px, 100px, 50px rgb(130, 217, 160);
+    }
+    100%{
+        border-color: rgb(50,55, 205);
+        transform: translate(0,-0px);
+        box-shadow: 10px, 10px, 100px, 50px rgb(50,55, 205);
+    }
+}
+
+
+.textarea a{
+    background-color: rgb(247, 111, 0);
+    border-radius: 20px;
+    padding: 8px 15px;
+    font-size: 30px;
+    
+}
+.textarea{
+    width: 920px;
+    height: 400px;
+    margin-top: -50px;
+    background: linear-gradient(to right, rgb(253, 89, 138), rgb(170, 117, 245));
+    color: black;
+    padding: 20px;
+    border-radius: 10px;
+    /* box-shadow: 0px 0px 30px rgb(247, 111, 0);; */
+    border: 2px solid black
+   
+}
+
+.textarea h3{
+    font-size: 30px;
+    font-weight: 800;
+    margin-bottom: 20px;
+}
+.textarea p{
+    margin-bottom: 30px;
+}
+.tp{
+    font-size: 20px;
+}
